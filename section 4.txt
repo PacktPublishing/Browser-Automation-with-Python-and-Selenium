@@ -1,0 +1,13 @@
+https://github.com/BrandonBlair/elegantbrowserautomation/tree/pom2
+
+https://github.com/BrandonBlair/elegantbrowserautomation/blob/pom1/pom.py
+
+https://github.com/BrandonBlair/elegantbrowserautomation/tree/pom3
+
+https://github.com/BrandonBlair/slimleaf/blob/master/slimleaf/webdriver/locator.py
+
+https://github.com/BrandonBlair/elegantbrowserautomation/tree/locator
+
+https://lxml.de/
+
+https://github.com/BrandonBlair/elegantbrowserautomation/tree/secretsauce
